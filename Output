@@ -1,0 +1,36 @@
+--- Personal Expense Tracker ---
+1. Add Expense
+2. View All Expenses
+3. Exit
+Choose an option: 1
+Enter description: Grocery
+Enter amount: 1250.50
+Enter category: Food
+✅ Expense added successfully.
+
+--- Personal Expense Tracker ---
+1. Add Expense
+2. View All Expenses
+3. Exit
+Choose an option: 1
+Enter description: Internet bill
+Enter amount: 899.00
+Enter category: Utilities
+✅ Expense added successfully.
+
+--- Personal Expense Tracker ---
+1. Add Expense
+2. View All Expenses
+3. Exit
+Choose an option: 2
+
+📋 Your Expenses:
+1. Grocery - $1250.50 [Food]
+2. Internet bill - $899.00 [Utilities]
+
+--- Personal Expense Tracker ---
+1. Add Expense
+2. View All Expenses
+3. Exit
+Choose an option: 3
+Goodbye!
